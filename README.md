@@ -1,16 +1,21 @@
-# myquizapp
+# MyQuizApp
 
-A new Flutter project.
+A Flutter project that implements a quiz app. This app features a row of three pictures and a video link.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
+- Dart SDK (comes with Flutter)
+- Android Studio or VS Code (for Flutter development)
+
+### Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RenderHaven/QuizApp.git

@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 ### Preview
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="1.jpg" width="150" height="150" />
-    <img src="3.jpg" width="150" height="150" />
-    <img src="2.jpg" width="150" height="150" />
+    <img src="1.jpg" width="150" height="300" />
+    <img src="3.jpg" width="150" height="300" />
+    <img src="2.jpg" width="150" height="300" />
   </div>

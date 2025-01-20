@@ -28,4 +28,4 @@ Before you begin, ensure you have the following installed:
     <img src="2.jpg" width="200" height="400" />
   </div>
 
-  1. Video Preview:(https://github.com/RenderHaven/QuizApp.git)
+  1. Video Preview:(https://drive.google.com/file/d/1XcoT5Dsj079Y1Xv07Kh1jP73VitGl2YE/view?usp=sharing)

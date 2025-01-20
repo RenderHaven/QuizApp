@@ -19,3 +19,9 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/RenderHaven/QuizApp.git
+
+### Preview
+
+![HomePage](1.jpg)
+![QuizePage](3.jpg)
+![ResultPage](2.jpg)
